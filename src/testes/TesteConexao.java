@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pesistencia;
+package testes;
 
 /**
  *
  * @author christhofer.vieira
  */
-public class Conexao {
+public class TesteConexao {
     
 }

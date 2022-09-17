@@ -9,7 +9,7 @@ package entidades;
  *
  * @author christhofer.vieira
  */
-public class Jogo extends item {
+public class Jogo extends Item {
     private int memoria;
     private String tipo;
 
